@@ -97,4 +97,3 @@ Este README inclui:
 - Instruções para contribuição
 - Informações sobre licença e autoria
 
-Você pode personalizar este README de acordo com as necessidades específicas do seu projeto, adicionando ou removendo seções conforme necessário.
